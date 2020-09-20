@@ -13,9 +13,9 @@ public class HelloWorld : MonoBehaviour
         //m_text = GetComponent<TextMeshPro>();
         m_text.text = "hello VR MSc";
         print("Hello Console");
-        Debug.Log("hello debug");
-        Debug.LogWarning("this is a possible problem to have");
-        Debug.LogError("this should have happened");
+        //Debug.Log("hello debug");
+        //Debug.LogWarning("this is a possible problem to have");
+        //Debug.LogError("this should have happened");
         
     }
 
